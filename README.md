@@ -1,6 +1,6 @@
 Guess_The_Number
 
-Guess_The_Number built and developed with python. This is a samll game which takes input from the user to make a guess within a certain range and if the input matches with the
+Guess_The_Number is built and developed with python. This is a small game which takes input from the user to make a guess within a certain range and if the input matches with the
 system generated random number then he wins and progresses into the higher level or else he loses. Each level becomes difficult as the range keeps on increasing.
 
 There are total 9 levels.
